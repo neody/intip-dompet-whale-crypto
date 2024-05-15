@@ -3,7 +3,6 @@ untuk mengintip kegiatan sehari-hari para ikan paus makan plankton
 
 script simple tapi bisa membuat anda Tajir tanpa harus deg-degan tebak2an candle
 
-/***********************************************************************************************
     cara penggunaan, buka https://solscan.io/ via browser
     lalu buka developer mode, atau tekan f12
     pada bagian console paste script ini pada code ini
@@ -20,4 +19,4 @@ script simple tapi bisa membuat anda Tajir tanpa harus deg-degan tebak2an candle
   pembuat :yadi https://fb.com/neody.peacemaker
 
  donasi solana bisa kesini : 7k8MmJGugqeRZFCfhBAFxZTfjsiugUtbJFFpvggXmSUb
-***********************************************************************************************/
+ 
