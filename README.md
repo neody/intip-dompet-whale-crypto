@@ -18,5 +18,7 @@ script simple tapi bisa membuat anda Tajir tanpa harus deg-degan tebak2an candle
 
   pembuat :yadi https://fb.com/neody.peacemaker
 
- donasi solana bisa kesini : 7k8MmJGugqeRZFCfhBAFxZTfjsiugUtbJFFpvggXmSUb
- 
+ donasi solana bisa kesini : 
+ ~~~
+ 7k8MmJGugqeRZFCfhBAFxZTfjsiugUtbJFFpvggXmSUb
+ ~~~
