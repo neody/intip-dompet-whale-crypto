@@ -63,7 +63,7 @@ async function mantab(address,nama=''){
     }
 async function main(){
     
-    await mantab(("isi_alamat_dompetnya_disini2","scalpernya");
+    await mantab("isi_alamat_dompetnya_disini2","scalpernya");
     
 }
 main();
