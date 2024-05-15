@@ -47,8 +47,10 @@ async function mantab(address,nama=''){
           .then(data => {
             // Lakukan sesuatu dengan data yang diterima
               const data_pertama = data.data[0].amount_info.token2;
-                  if(data_pertama!=='So11111111111111111111111111111111111111112') 
-                console.log("si "+((nama !=='')?nama+` (${address})`:address)+" baru beli ini :"+data_pertama);
+                  if(data_pertama!=='So11111111111111111111111111111111111111112') {
+                    const urlnya=`https://dexscreener.com/solana/${data_pertama}?maker=${address}`
+                    console.log("si "+((nama !=='')?nama+` (${address})`:address)+" baru beli ini :"+data_pertama+` ${urlnya}`);
+		}
               else 
                 console.log("si "+((nama !=='')?nama+` (${address})`:address)+" udah taking profit");
                       
@@ -61,7 +63,7 @@ async function mantab(address,nama=''){
     }
 async function main(){
     
-    await mantab("CCLKe44ZudWBye9LcMAWA4TvLcA1z5ochWZ11Jwixgvp","scalper manualan");
+    await mantab(("isi_alamat_dompetnya_disini2","scalpernya");
     
 }
 main();
