@@ -20,5 +20,5 @@ script simple tapi bisa membuat anda Tajir tanpa harus deg-degan tebak2an candle
 
  donasi solana bisa kesini : 
  ~~~
- 7k8MmJGugqeRZFCfhBAFxZTfjsiugUtbJFFpvggXmSUb
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
  ~~~
